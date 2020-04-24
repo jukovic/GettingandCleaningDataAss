@@ -7,7 +7,7 @@
 
 *CodeBook.md:* 
 
-*a code book that describes the variables, the data, and any transformations or work performed. 
+* a code book that describes the variables, the data, and any transformations or work performed. 
 
 *run_analysis.R* performs the data preparation and then follows the 5 steps:
 
